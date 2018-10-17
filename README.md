@@ -25,6 +25,8 @@ For each of the **bold** questions below:
 
 # Part 1
 
+**NEW COMMIT TEST**
+
 New git commands! As you work, you should be **add**ing and **commit**ing your
 code. Check out the
 [git cheat sheat on GitBook](https://adaapp.gitbook.io/digital-innovation/guides/git-cheat-sheet)
