@@ -48,7 +48,7 @@ to GitHub by **push**ing them:
 git push
 ```
 
-If the command was successful, you shoulkd be able to go to your own GitHub
+If the command was successful, you should be able to go to your own GitHub
 repository and see the most up to date changes!
 
 **Go back to your previous two workshops and make sure all your changes have
@@ -99,16 +99,15 @@ function square(x, y, size) {
 Replace `rect(5, 30, 70, 70)` with `square(5, 30, 70)` and run your code.
 
 **What’s going on here? What might `x, y, size` mean?**
+The x and y represent the coordinates of the square function, and size represents the length/width of the produced square
 
-**Add a comment above your function saying what the inputs and outputs of your
-function are (name, description, data type) and what your functions does.** You
-should add a comment like this to every function you write.
+**Add a comment above your function saying what the inputs and outputs of your function are (name, description, data type) and what your functions does.** You should add a comment like this to every function you write.
 
 Let’s create some more functions - one for drawing the roof of the house, and
 another for drawing the entire house.
 
-C**reate functions using the code below as a starting point.** Your house
-function should only use the square and roof functions that we defined.
+**Create functions using the code below as a starting point.** 
+Your house function should only use the square and roof functions that we defined.
 
 ```js
 function roof(x, y) {
@@ -122,8 +121,8 @@ function house(x, y) {
 
 ## Tasks
 
-1. Change `draw` to use the new `house` function.
-2. Change `draw` to show a `hous at the position of the mouse pointer.
+1. Change `draw` to use the new `house` function. 
+2. Change `draw` to show a house at the position of the mouse pointer.
 3. Change `draw` to show a row of three houses.
 4. Change your `house` function so it needs `width` and `height` as well as `x`
    any `y`
